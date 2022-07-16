@@ -16,7 +16,7 @@ class Feedback extends Component {
     return (
       <div className="feedback-question-container">
         <h1 className="feedback-question">
-          How satisfied are you with our customer support performance?
+          How satisfied are you with your customer support performance?
         </h1>
         <ul className="emojis-list">
           {emojis.map(emoji => (
